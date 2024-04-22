@@ -6,4 +6,5 @@ Kee Whi SP for GBA
 
 
 Kee Whi SP for NDS
+https://github.com/keewhi/KeeWhiSP/releases/tag/nds
 ![Frame 1 (7)](https://github.com/keewhi/KeeWhiSP/assets/96317800/b08430ef-aa2e-4128-a1d3-c9587b373ae1)
